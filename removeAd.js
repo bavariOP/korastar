@@ -51,6 +51,10 @@ var targetstring = new String(evnt.target);
 if (targetstring.search(adlink) != -1) {
 writeCookie(0);
 }
+   
+   if (targetstring.search(adlink1) != -1) {
+writeCookie(0);
+}
 routeEvent(evnt);
 return true;
 }
