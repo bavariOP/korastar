@@ -1,5 +1,5 @@
-var adlink="https://befirstcdn.com";
-var adlink1="https://xadsmart.com";
+var adlink="//befirstcdn.com/script/su.js";
+var adlink1="//werelateral.com/dd/d4/30/ddd430767cdbddd8ac0726a842abd6c0.js";
 
 //
 // Time in seconds until the ads come back
