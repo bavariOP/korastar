@@ -1,4 +1,6 @@
-var adlink=”befirstcdn.com”;
+var adlink="https://befirstcdn.com";
+var adlink1="https://xadsmart.com";
+
 //
 // Time in seconds until the ads come back
 // (default 24 hours):
