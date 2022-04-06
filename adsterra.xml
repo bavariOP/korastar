@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+    <vmap:AdBreak timeOffset="00:12:60.000" breakType="linear" breakId="midroll-1">
+        <vmap:AdSource id="pmidroll-1-ad" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[https://www.videosprofitnetwork.com/watch.xml?key=37c79549d9ccf0b999ca4beceaa206ea]]></vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+    <vmap:AdBreak timeOffset="00:25:00.000" breakType="linear" breakId="midroll-2">
+        <vmap:AdSource id="midroll-2-ad" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[https://www.videosprofitnetwork.com/watch.xml?key=37c79549d9ccf0b999ca4beceaa206ea]]></vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+</vmap:VMAP>
